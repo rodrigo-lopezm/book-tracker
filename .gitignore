@@ -18,6 +18,9 @@ ENV/
 # IDE configurations
 .idea/
 .vscode/
+.context.md
+context.md
+.aiignore
 
 # Distribution / packaging
 build/
